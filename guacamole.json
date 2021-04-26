@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1619457129",
-      "filename": "KangOS-2.0-R-Stout-Gapps-OFFICIAL-guacamole-20210426-1712.zip",
-      "id": "64421ac9c6d03adc5fc368dfaee3608c",
+      "datetime": "1619462001",
+      "filename": "KangOS-2.0-R-Stout-Gapps-OFFICIAL-guacamole-20210426-1833.zip",
+      "id": "7073dab893bc9bce8edd258b7793f397",
       "romtype": "nightly",
-      "size": 1500322771,
-      "url": "https://download.kangos.in/dump/KangOS-2.0-R-Stout-Gapps-OFFICIAL-guacamole-20210426-1712.zip",
+      "size": 1500323334,
+      "url": "https://download.kangos.in/dump/KangOS-2.0-R-Stout-Gapps-OFFICIAL-guacamole-20210426-1833.zip",
       "version": "2.0"
     }
   ]
